@@ -1,0 +1,21 @@
+* {
+  box-sizing: border-box;
+  }
+
+.fixed {
+	text-align: center;
+	padding: 40px;
+	background-color: #4aaaa5;
+	font-family: 'Georgia', Times, Times New Roman, serif;
+	color: #fff;
+	height:100px;
+	width: 150px;
+	position: fixed;
+	top: 0;
+	left: 0;
+
+
+
+p {
+	color: grey;
+}
